@@ -11,3 +11,21 @@ I work remotely and like to travel a lot.
 <code><img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="29px"></code>
 <code><img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text-thumbnail.png" height="29px" /></code>
 <code><img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" height="29px" /></code>
+
+<br />
+
+- 📍 &nbsp; Current location: Samarkand, Uzbekistan
+- 📝 &nbsp; Ask me about anything
+-  📩 &nbsp; How to reach me: [@donievruzimurod@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+
+
+
+
+
+
+
+
+
+
+

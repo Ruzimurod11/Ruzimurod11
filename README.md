@@ -9,7 +9,7 @@ I work remotely and like to travel a lot.
 
 <code><img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png" height="25px" /></code>
 
-<code><img src="[https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png](https://cdn.freebiesupply.com/logos/large/2x/css3-logo-svg-vector.svg)" height="25px" /></code>
+<code><img src="https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png" height="25px" /></code>
 
 <code><img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png" height="25px" /></code>
 

@@ -16,7 +16,7 @@ I work remotely and like to travel a lot.
 
 - 📍 &nbsp; Current location: Samarkand, Uzbekistan
 - 📝 &nbsp; Ask me about anything
--  📩 &nbsp; How to reach me: [@donievruzimurod@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+-  📩 &nbsp; How to reach me: [@donievruzimurod@gmail.com]
 
 
 

@@ -8,5 +8,5 @@ I work remotely and like to travel a lot.
 <code display="inline"><img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png" width="30px"></code>
 <code display="inline"><img src="https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png" height="29px"></code>
 <code><img src="https://w7.pngwing.com/pngs/1009/249/png-transparent-logo-sass-logos-and-brands-icon-thumbnail.png" width="30px"></code>
-<code><img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png" width="30px" /></code>
+<code><img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" width="30px"></code>
 <code><img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle-thumbnail.png" width="30px" /></code>

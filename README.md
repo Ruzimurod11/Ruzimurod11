@@ -1,7 +1,7 @@
 ### Hi, I'm Ruzimurod Doniev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
 I'm Frontend Developer. <br />
-I work remotely and like to travel a lot.
+I like to travel a lot.
 
 ### Languages and tools I work with:
 

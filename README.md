@@ -13,6 +13,7 @@ I'm Frontend Developer. <br />
 <code><img src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" height="29px" /></code>
 <code><img src="https://w7.pngwing.com/pngs/74/362/png-transparent-typescript-plain-logo-icon-thumbnail.png" height="29px" /></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_dQw9_0TFEtE11BWSwJpkePcC7lAa_rv-A&s" height="29px" /></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s" height="29px" /></code>
 
 <br />
 

@@ -14,7 +14,7 @@ I'm Frontend Developer. <br />
 <code><img src="https://w7.pngwing.com/pngs/74/362/png-transparent-typescript-plain-logo-icon-thumbnail.png" height="29px" /></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0_dQw9_0TFEtE11BWSwJpkePcC7lAa_rv-A&s" height="29px" /></code>
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s" height="29px" /></code>
-<code><img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyTGSDDmGK9JX3Il3ja7LUr2fJaUS0fgQsCw&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThmT8HtltidnDUJvGcRYzg8B9h8zM-2O-FZw&s)" height="29px" /></code>
+<code><img src="https://e7.pngegg.com/pngimages/708/80/png-clipart-black-and-brown-mongo-db-logo-mongodb-logo-icons-logos-emojis-tech-companies.png" height="29px" /></code>
 
 <br />
 

@@ -1,6 +1,6 @@
 ### Hi, I'm Ruzimurod Doniev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
-I'm Frontend Developer. <br />
+I'm a Frontend Developer. <br />
 
 
 ### Languages and tools I work with:
